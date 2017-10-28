@@ -1,0 +1,41 @@
+[21-Feb-2016 07:50:47 UTC] PHP Notice:  Undefined index: nonce in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 3
+[21-Feb-2016 07:50:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php:3) in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 3
+[21-Feb-2016 07:50:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php:3) in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 32
+[21-Feb-2016 07:53:13 UTC] PHP Notice:  Undefined index: nonce in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 3
+[21-Feb-2016 07:53:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 3
+[21-Feb-2016 17:07:17 UTC] PHP Notice:  Undefined index: payment_status in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 5
+[21-Feb-2016 17:07:17 UTC] PHP Notice:  Undefined index: mc_gross in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 6
+[21-Feb-2016 17:07:17 UTC] PHP Notice:  Undefined index: txn_id in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 7
+[21-Feb-2016 17:07:17 UTC] PHP Notice:  Undefined index: receiver_email in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 8
+[21-Feb-2016 17:07:17 UTC] PHP Notice:  Undefined index: payer_email in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 9
+[21-Feb-2016 17:07:17 UTC] PHP Notice:  Undefined index: custom in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 10
+[21-Feb-2016 17:07:17 UTC] PHP Notice:  Undefined index: custom in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 11
+[21-Feb-2016 17:07:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php:5) in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 16
+[21-Feb-2016 17:07:17 UTC] PHP Notice:  Undefined offset: 1 in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 23
+[21-Feb-2016 17:07:38 UTC] PHP Notice:  Undefined index: payment_status in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 5
+[21-Feb-2016 17:07:38 UTC] PHP Notice:  Undefined index: mc_gross in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 6
+[21-Feb-2016 17:07:38 UTC] PHP Notice:  Undefined index: txn_id in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 7
+[21-Feb-2016 17:07:38 UTC] PHP Notice:  Undefined index: receiver_email in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 8
+[21-Feb-2016 17:07:38 UTC] PHP Notice:  Undefined index: payer_email in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 9
+[21-Feb-2016 17:07:38 UTC] PHP Notice:  Undefined index: custom in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 10
+[21-Feb-2016 17:07:38 UTC] PHP Notice:  Undefined index: custom in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 11
+[21-Feb-2016 17:07:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php:5) in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 16
+[21-Feb-2016 17:07:38 UTC] PHP Notice:  Undefined offset: 1 in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 23
+[21-Feb-2016 17:10:32 UTC] PHP Notice:  Undefined index: payment_status in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 5
+[21-Feb-2016 17:10:32 UTC] PHP Notice:  Undefined index: mc_gross in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 6
+[21-Feb-2016 17:10:32 UTC] PHP Notice:  Undefined index: txn_id in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 7
+[21-Feb-2016 17:10:32 UTC] PHP Notice:  Undefined index: receiver_email in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 8
+[21-Feb-2016 17:10:32 UTC] PHP Notice:  Undefined index: payer_email in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 9
+[21-Feb-2016 17:10:32 UTC] PHP Notice:  Undefined index: custom in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 10
+[21-Feb-2016 17:10:32 UTC] PHP Notice:  Undefined index: custom in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 11
+[21-Feb-2016 17:10:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php:5) in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 16
+[21-Feb-2016 17:10:32 UTC] PHP Notice:  Undefined offset: 1 in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 23
+[22-Feb-2016 10:34:52 UTC] PHP Notice:  Undefined index: payment_status in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 5
+[22-Feb-2016 10:34:52 UTC] PHP Notice:  Undefined index: mc_gross in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 6
+[22-Feb-2016 10:34:52 UTC] PHP Notice:  Undefined index: txn_id in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 7
+[22-Feb-2016 10:34:52 UTC] PHP Notice:  Undefined index: receiver_email in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 8
+[22-Feb-2016 10:34:52 UTC] PHP Notice:  Undefined index: payer_email in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 9
+[22-Feb-2016 10:34:52 UTC] PHP Notice:  Undefined index: custom in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 10
+[22-Feb-2016 10:34:52 UTC] PHP Notice:  Undefined index: custom in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 11
+[22-Feb-2016 10:34:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php:5) in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 16
+[22-Feb-2016 10:34:52 UTC] PHP Notice:  Undefined offset: 1 in /home/geosenseapp/public_html/sendmymail.in/manage/mypayment.php on line 23

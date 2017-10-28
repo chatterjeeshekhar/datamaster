@@ -1,0 +1,6 @@
+[15-May-2016 13:03:23 Asia/Calcutta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/shekharc/public_html/sendmymail.in/manage/admin/suspend.php on line 163
+[24-May-2016 23:09:40 Asia/Calcutta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/shekharc/public_html/sendmymail.in/manage/admin/suspend.php on line 163
+[24-May-2016 23:14:42 Asia/Calcutta] PHP Notice:  Undefined variable: chkinsert in /home/shekharc/public_html/sendmymail.in/manage/admin/suspend.php on line 154
+[24-May-2016 23:14:42 Asia/Calcutta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/shekharc/public_html/sendmymail.in/manage/admin/suspend.php on line 163
+[24-May-2016 23:14:58 Asia/Calcutta] PHP Notice:  Undefined variable: chkinsert in /home/shekharc/public_html/sendmymail.in/manage/admin/suspend.php on line 154
+[24-May-2016 23:14:58 Asia/Calcutta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/shekharc/public_html/sendmymail.in/manage/admin/suspend.php on line 163

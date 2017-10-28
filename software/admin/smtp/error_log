@@ -1,0 +1,7 @@
+[10-May-2016 13:47:59 UTC] PHP Warning:  include(SMTPClass.php): failed to open stream: No such file or directory in /home/shekharc/public_html/sendmymail.in/manage/admin/smtp/index.php on line 3
+[10-May-2016 13:47:59 UTC] PHP Warning:  include(SMTPClass.php): failed to open stream: No such file or directory in /home/shekharc/public_html/sendmymail.in/manage/admin/smtp/index.php on line 3
+[10-May-2016 13:47:59 UTC] PHP Warning:  include(): Failed opening 'SMTPClass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shekharc/public_html/sendmymail.in/manage/admin/smtp/index.php on line 3
+[10-May-2016 13:48:06 UTC] PHP Warning:  include(SMTPClass.php): failed to open stream: No such file or directory in /home/shekharc/public_html/sendmymail.in/manage/admin/smtp/index.php on line 3
+[10-May-2016 13:48:06 UTC] PHP Warning:  include(SMTPClass.php): failed to open stream: No such file or directory in /home/shekharc/public_html/sendmymail.in/manage/admin/smtp/index.php on line 3
+[10-May-2016 13:48:06 UTC] PHP Warning:  include(): Failed opening 'SMTPClass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shekharc/public_html/sendmymail.in/manage/admin/smtp/index.php on line 3
+[10-May-2016 13:48:06 UTC] PHP Fatal error:  Class 'SMTPClient' not found in /home/shekharc/public_html/sendmymail.in/manage/admin/smtp/index.php on line 10
